@@ -100,7 +100,7 @@ namespace BT02
             base.Nhap();
         }
     }
-    class QuanLySanPham : SanPham
+    class QuanLySanPham 
     {
         private string _ten = "Cua Hang Ban Le";
         private SanPham[] _danhSachSP;
